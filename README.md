@@ -1,6 +1,6 @@
 # DEPI_DataEngineering_Intern
 my DEPI Internship repository
-I will add any tasks in my learning processing throughout the course.
+I will add any tasks in my learning process throughout the course.
 
 ## Courses
 
