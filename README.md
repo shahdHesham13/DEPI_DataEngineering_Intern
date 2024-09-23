@@ -8,4 +8,4 @@ I will add any tasks in my learning processing throughout the course.
 2. **Data Warehousing with SSIS**: Designing and implementing data warehouses.
 3. **Python**: Python Programming Language Fundamentals.
 4. **Python for Data Science**: Python's tools and techniques for data analytics and visualization.
-5. **Azure**: Fundamentals of Microsoft Azure data services for data storage and processing.
+5. **Microsoft Azure**: Fundamentals of Azure data services for data storage and processing.
